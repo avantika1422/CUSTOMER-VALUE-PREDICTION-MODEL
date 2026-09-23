@@ -86,5 +86,5 @@ The project covers the full data science workflow: data cleaning, exploratory da
 
 ## Author
 
-_Your Name_ — IBM SkillsBuild Data Analytics with AI Academic Internship, BharatCares x AICTE
+_Your Name_ — Avantika
 
