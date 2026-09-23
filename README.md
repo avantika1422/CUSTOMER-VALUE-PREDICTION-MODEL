@@ -1,6 +1,6 @@
 # E-Commerce Customer Lifetime Value (CLV) Prediction
 
-A machine learning project that predicts **Customer Lifetime Value (CLV)** from e-commerce order and customer data, built as part of the **IBM SkillsBuild Data Analytics with AI Academic Internship Program**, conducted by **BharatCares** in association with **AICTE**.
+A machine learning project that predicts **Customer Lifetime Value (CLV)** from e-commerce order and customer data, built as part of the **IBM SkillsBuild Data Analytics with AI Academic Internship Program**, conducted by **BharatCareers** in association with **AICTE**.
 
 ## Project Description
 
